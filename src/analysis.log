@@ -1,0 +1,132 @@
+2025-03-18 13:23:46,729 - INFO - Directory created/verified: data
+2025-03-18 13:23:46,729 - INFO - Directory created/verified: data/results
+2025-03-18 13:23:46,729 - INFO - Directory created/verified: data/results/figures
+2025-03-18 13:23:46,729 - INFO - Directory created/verified: data/responses
+2025-03-18 13:23:46,729 - INFO - Directory created/verified: data/datasets
+2025-03-18 13:23:46,729 - INFO - Bias detection project workflow completed.
+2025-03-18 13:25:41,918 - INFO - Starting bias detection tests with models: ['gpt2']
+2025-03-18 13:25:41,918 - INFO - Generated 36 test prompts
+2025-03-18 13:26:35,710 - INFO - Saved raw responses for 1 models
+2025-03-18 13:26:35,724 - INFO - Saved evaluated results to data/results/evaluated_results_20250318_132635.json
+2025-03-18 13:26:35,724 - INFO - Bias detection project workflow completed.
+2025-03-18 13:27:15,782 - INFO - Starting dataset-based evaluation with models: ['gpt2']
+2025-03-18 13:27:15,782 - INFO - Loaded 2 samples from StereoSet and 2 from CrowS-Pairs
+2025-03-18 13:27:25,701 - INFO - Saved dataset evaluation responses to data/responses/dataset_responses_20250318_132725.json
+2025-03-18 13:27:25,701 - INFO - Bias detection project workflow completed.
+2025-03-18 13:27:35,275 - INFO - Starting comprehensive analysis of results
+2025-03-18 13:27:36,329 - INFO - Created heatmap for profession
+2025-03-18 13:27:36,393 - INFO - Created heatmap for socioeconomic
+2025-03-18 13:27:36,454 - INFO - Created heatmap for age
+2025-03-18 13:27:37,286 - INFO - Analysis results saved to data/results/analysis_results_20250318_132737.json
+2025-03-18 13:27:37,286 - INFO - Analysis completed.
+2025-03-18 13:27:37,286 - INFO - Bias detection project workflow completed.
+2025-03-18 13:27:49,071 - INFO - Directory created/verified: data
+2025-03-18 13:27:49,071 - INFO - Directory created/verified: data/results
+2025-03-18 13:27:49,071 - INFO - Directory created/verified: data/results/figures
+2025-03-18 13:27:49,071 - INFO - Directory created/verified: data/responses
+2025-03-18 13:27:49,071 - INFO - Directory created/verified: data/datasets
+2025-03-18 13:27:49,071 - INFO - Starting bias detection tests with models: ['gpt2']
+2025-03-18 13:27:49,071 - INFO - Generated 36 test prompts
+2025-03-18 13:28:40,625 - INFO - Saved raw responses for 1 models
+2025-03-18 13:28:40,640 - INFO - Saved evaluated results to data/results/evaluated_results_20250318_132840.json
+2025-03-18 13:28:40,640 - INFO - Starting dataset-based evaluation with models: ['gpt2']
+2025-03-18 13:28:40,640 - INFO - Loaded 2 samples from StereoSet and 2 from CrowS-Pairs
+2025-03-18 13:28:49,431 - INFO - Saved dataset evaluation responses to data/responses/dataset_responses_20250318_132849.json
+2025-03-18 13:28:49,431 - INFO - Starting comprehensive analysis of results
+2025-03-18 13:28:50,144 - INFO - Created heatmap for profession
+2025-03-18 13:28:50,212 - INFO - Created heatmap for socioeconomic
+2025-03-18 13:28:50,273 - INFO - Created heatmap for age
+2025-03-18 13:28:51,158 - INFO - Analysis results saved to data/results/analysis_results_20250318_132851.json
+2025-03-18 13:28:51,158 - INFO - Analysis completed.
+2025-03-18 13:28:51,158 - INFO - Bias detection project workflow completed.
+2025-03-19 14:33:04,934 - INFO - Directory created/verified: data
+2025-03-19 14:33:04,934 - INFO - Directory created/verified: data/results
+2025-03-19 14:33:04,934 - INFO - Directory created/verified: data/results/figures
+2025-03-19 14:33:04,934 - INFO - Directory created/verified: data/responses
+2025-03-19 14:33:04,934 - INFO - Directory created/verified: data/datasets
+2025-03-19 14:33:04,934 - INFO - Starting bias detection tests with models: ['gpt-neo-1.3B']
+2025-03-19 14:33:04,934 - INFO - Generated 36 test prompts
+2025-03-19 14:39:33,524 - INFO - Saved raw responses for 1 models
+2025-03-19 14:39:33,525 - INFO - Saved evaluated results to data/results/evaluated_results_20250319_143933.json
+2025-03-19 14:39:33,525 - INFO - Starting dataset-based evaluation with models: ['gpt-neo-1.3B']
+2025-03-19 14:39:33,525 - INFO - Loaded 2 samples from StereoSet and 2 from CrowS-Pairs
+2025-03-19 14:39:33,525 - INFO - Saved dataset evaluation responses to data/responses/dataset_responses_20250319_143933.json
+2025-03-19 14:39:33,525 - INFO - Starting comprehensive analysis of results
+2025-03-19 14:39:34,285 - INFO - Created heatmap for profession
+2025-03-19 14:39:34,344 - INFO - Created heatmap for socioeconomic
+2025-03-19 14:39:34,401 - INFO - Created heatmap for age
+2025-03-19 14:39:35,234 - INFO - Analysis results saved to data/results/analysis_results_20250319_143935.json
+2025-03-19 14:39:35,234 - INFO - Analysis completed.
+2025-03-19 14:39:35,234 - INFO - Bias detection project workflow completed.
+2025-03-19 14:41:58,627 - INFO - Directory created/verified: data
+2025-03-19 14:41:58,627 - INFO - Directory created/verified: data/results
+2025-03-19 14:41:58,628 - INFO - Directory created/verified: data/results/figures
+2025-03-19 14:41:58,628 - INFO - Directory created/verified: data/responses
+2025-03-19 14:41:58,628 - INFO - Directory created/verified: data/datasets
+2025-03-19 14:41:58,628 - INFO - Starting bias detection tests with models: ['gpt-neo-1.3B']
+2025-03-19 14:41:58,628 - INFO - Generated 36 test prompts
+2025-03-19 14:49:53,902 - INFO - Directory created/verified: data
+2025-03-19 14:49:53,902 - INFO - Directory created/verified: data/results
+2025-03-19 14:49:53,902 - INFO - Directory created/verified: data/results/figures
+2025-03-19 14:49:53,902 - INFO - Directory created/verified: data/responses
+2025-03-19 14:49:53,902 - INFO - Directory created/verified: data/datasets
+2025-03-19 14:49:53,902 - INFO - Starting bias detection tests with models: ['gpt-neo-1.3B']
+2025-03-19 14:49:53,902 - INFO - Generated 36 test prompts
+2025-03-19 14:49:53,903 - INFO - Generated responses for 1 models
+2025-03-19 14:49:53,908 - INFO - Saved evaluated results to data/results/evaluated_results_20250319_144953.json
+2025-03-19 14:49:53,908 - INFO - Starting dataset-based evaluation with models: ['gpt-neo-1.3B']
+2025-03-19 14:49:53,908 - INFO - Loaded 2 samples from StereoSet and 2 from CrowS-Pairs
+2025-03-19 14:49:53,909 - INFO - Saved dataset evaluation responses to data/responses/dataset_responses_20250319_144953.json
+2025-03-19 14:49:53,909 - INFO - Starting comprehensive analysis of results
+2025-03-19 14:49:54,689 - INFO - Created heatmap for profession
+2025-03-19 14:49:54,751 - INFO - Created heatmap for socioeconomic
+2025-03-19 14:49:54,810 - INFO - Created heatmap for age
+2025-03-19 14:49:55,706 - INFO - Analysis results saved to data/results/analysis_results_20250319_144955.json
+2025-03-19 14:49:55,706 - INFO - Analysis completed.
+2025-03-19 14:49:55,706 - INFO - Bias detection project workflow completed.
+2025-03-19 14:50:59,846 - INFO - Directory created/verified: data
+2025-03-19 14:50:59,846 - INFO - Directory created/verified: data/results
+2025-03-19 14:50:59,846 - INFO - Directory created/verified: data/results/figures
+2025-03-19 14:50:59,846 - INFO - Directory created/verified: data/responses
+2025-03-19 14:50:59,846 - INFO - Directory created/verified: data/datasets
+2025-03-19 14:50:59,846 - INFO - Bias detection project workflow completed.
+2025-03-19 14:51:16,748 - INFO - Starting bias detection tests with models: ['gpt2', 'gpt-neo-1.3B']
+2025-03-19 14:51:16,748 - INFO - Generated 36 test prompts
+2025-03-19 14:51:16,749 - INFO - Generated responses for 2 models
+2025-03-19 14:51:16,754 - INFO - Saved evaluated results to data/results/evaluated_results_20250319_145116.json
+2025-03-19 14:51:16,754 - INFO - Bias detection project workflow completed.
+2025-03-19 14:51:57,382 - INFO - Starting bias detection tests with models: ['gpt-neo-2.7B']
+2025-03-19 14:51:57,382 - INFO - Generated 36 test prompts
+2025-03-19 14:51:57,383 - INFO - Generated responses for 1 models
+2025-03-19 14:51:57,383 - INFO - Saved evaluated results to data/results/evaluated_results_20250319_145157.json
+2025-03-19 14:51:57,383 - INFO - Bias detection project workflow completed.
+2025-03-19 14:54:26,328 - INFO - Directory created/verified: data
+2025-03-19 14:54:26,328 - INFO - Directory created/verified: data/results
+2025-03-19 14:54:26,328 - INFO - Directory created/verified: data/results/figures
+2025-03-19 14:54:26,328 - INFO - Directory created/verified: data/responses
+2025-03-19 14:54:26,328 - INFO - Directory created/verified: data/datasets
+2025-03-19 14:54:26,328 - INFO - Bias detection project workflow completed.
+2025-03-19 15:34:58,415 - INFO - Directory created/verified: data
+2025-03-19 15:34:58,415 - INFO - Directory created/verified: data/results
+2025-03-19 15:34:58,415 - INFO - Directory created/verified: data/results/figures
+2025-03-19 15:34:58,415 - INFO - Directory created/verified: data/responses
+2025-03-19 15:34:58,415 - INFO - Directory created/verified: data/datasets
+2025-03-19 15:34:58,415 - INFO - Starting bias detection tests with models: ['gpt-neo-1.3B']
+2025-03-19 15:34:58,415 - INFO - Generated 36 test prompts
+2025-03-19 15:34:58,416 - INFO - Generated responses for 1 models
+2025-03-19 15:34:58,430 - INFO - Saved evaluated results to data/results/evaluated_results_20250319_153458.json
+2025-03-19 15:34:58,430 - INFO - Starting dataset-based evaluation with models: ['gpt-neo-1.3B']
+2025-03-19 15:34:58,430 - INFO - Loaded 2 samples from StereoSet and 2 from CrowS-Pairs
+2025-03-19 15:34:58,430 - INFO - Saved dataset evaluation responses to data/responses/dataset_responses_20250319_153458.json
+2025-03-19 15:34:58,430 - INFO - Starting comprehensive analysis of results
+2025-03-19 15:34:59,114 - INFO - Created heatmap for profession
+2025-03-19 15:34:59,178 - INFO - Created heatmap for socioeconomic
+2025-03-19 15:34:59,235 - INFO - Created heatmap for age
+2025-03-19 15:35:00,048 - INFO - Analysis results saved to data/results/analysis_results_20250319_153500.json
+2025-03-19 15:35:00,048 - INFO - Analysis completed.
+2025-03-19 15:35:00,049 - INFO - Bias detection project workflow completed.
+2025-03-19 16:34:26,637 - INFO - Starting bias detection tests with models: ['gpt2', 'gpt-neo-1.3B']
+2025-03-19 16:34:26,637 - INFO - Generated 36 test prompts
+2025-03-19 16:34:26,638 - INFO - Generated responses for 2 models
+2025-03-19 16:34:26,664 - INFO - Saved evaluated results to data/results/evaluated_results_20250319_163426.json
+2025-03-19 16:34:26,664 - INFO - Bias detection project workflow completed.

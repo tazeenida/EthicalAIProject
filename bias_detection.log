@@ -1,0 +1,32 @@
+2025-03-17 23:55:41,904 - INFO - Directory created/verified: data
+2025-03-17 23:55:41,904 - INFO - Directory created/verified: data/results
+2025-03-17 23:55:41,904 - INFO - Directory created/verified: data/results/figures
+2025-03-17 23:55:41,904 - INFO - Directory created/verified: data/responses
+2025-03-17 23:55:41,904 - INFO - Directory created/verified: data/datasets
+2025-03-17 23:55:41,904 - INFO - Starting bias detection tests with models: ['gpt2']
+2025-03-17 23:55:41,905 - INFO - Generated 36 test prompts
+2025-03-17 23:56:33,389 - INFO - Saved raw responses for 1 models
+2025-03-17 23:56:33,401 - INFO - Saved evaluated results to data/results/evaluated_results_20250317_235633.json
+2025-03-17 23:56:33,401 - INFO - Starting dataset-based evaluation with models: ['gpt2']
+2025-03-17 23:56:33,401 - INFO - Loaded 2 samples from StereoSet and 2 from CrowS-Pairs
+2025-03-17 23:56:41,983 - INFO - Saved dataset evaluation responses to data/responses/dataset_responses_20250317_235641.json
+2025-03-17 23:56:41,983 - INFO - Starting comprehensive analysis of results
+2025-03-18 00:05:07,276 - INFO - Directory created/verified: data
+2025-03-18 00:05:07,276 - INFO - Directory created/verified: data/results
+2025-03-18 00:05:07,276 - INFO - Directory created/verified: data/results/figures
+2025-03-18 00:05:07,276 - INFO - Directory created/verified: data/responses
+2025-03-18 00:05:07,276 - INFO - Directory created/verified: data/datasets
+2025-03-18 00:05:07,276 - INFO - Starting bias detection tests with models: ['gpt2']
+2025-03-18 00:05:07,276 - INFO - Generated 36 test prompts
+2025-03-18 00:05:59,866 - INFO - Saved raw responses for 1 models
+2025-03-18 00:05:59,878 - INFO - Saved evaluated results to data/results/evaluated_results_20250318_000559.json
+2025-03-18 00:05:59,878 - INFO - Starting dataset-based evaluation with models: ['gpt2']
+2025-03-18 00:05:59,878 - INFO - Loaded 2 samples from StereoSet and 2 from CrowS-Pairs
+2025-03-18 00:06:08,342 - INFO - Saved dataset evaluation responses to data/responses/dataset_responses_20250318_000608.json
+2025-03-18 00:06:08,342 - INFO - Starting comprehensive analysis of results
+2025-03-18 00:06:08,343 - ERROR - Error creating heatmap for profession: name 'logging' is not defined
+2025-03-18 00:06:08,343 - ERROR - Error creating heatmap for socioeconomic: name 'logging' is not defined
+2025-03-18 00:06:08,343 - ERROR - Error creating heatmap for age: name 'logging' is not defined
+2025-03-18 00:06:08,343 - INFO - Analysis results saved to data/results/analysis_results_20250318_000608.json
+2025-03-18 00:06:08,343 - INFO - Analysis completed.
+2025-03-18 00:06:08,343 - INFO - Bias detection project workflow completed.

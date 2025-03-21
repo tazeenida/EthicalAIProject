@@ -1,0 +1,94 @@
+2025-03-18 00:09:37,907 - INFO - Directory created/verified: data
+2025-03-18 00:09:37,907 - INFO - Directory created/verified: data/results
+2025-03-18 00:09:37,907 - INFO - Directory created/verified: data/results/figures
+2025-03-18 00:09:37,907 - INFO - Directory created/verified: data/responses
+2025-03-18 00:09:37,907 - INFO - Directory created/verified: data/datasets
+2025-03-18 00:09:37,907 - INFO - Starting bias detection tests with models: ['gpt2']
+2025-03-18 00:09:37,907 - INFO - Generated 36 test prompts
+2025-03-18 00:10:31,678 - INFO - Saved raw responses for 1 models
+2025-03-18 00:10:31,695 - INFO - Saved evaluated results to data/results/evaluated_results_20250318_001031.json
+2025-03-18 00:10:31,695 - INFO - Starting dataset-based evaluation with models: ['gpt2']
+2025-03-18 00:10:31,695 - INFO - Loaded 2 samples from StereoSet and 2 from CrowS-Pairs
+2025-03-18 00:10:39,648 - INFO - Saved dataset evaluation responses to data/responses/dataset_responses_20250318_001039.json
+2025-03-18 00:10:39,648 - INFO - Starting comprehensive analysis of results
+2025-03-18 00:10:39,649 - WARNING - No data available to create heatmap for profession
+2025-03-18 00:10:39,649 - WARNING - No data available to create heatmap for socioeconomic
+2025-03-18 00:10:39,649 - WARNING - No data available to create heatmap for age
+2025-03-18 00:10:39,649 - INFO - Analysis results saved to data/results/analysis_results_20250318_001039.json
+2025-03-18 00:10:39,649 - INFO - Analysis completed.
+2025-03-18 00:10:39,649 - INFO - Bias detection project workflow completed.
+2025-03-18 00:14:27,285 - INFO - Starting bias detection tests with models: ['gpt2']
+2025-03-18 00:14:27,285 - INFO - Generated 36 test prompts
+2025-03-18 00:15:19,610 - INFO - Saved raw responses for 1 models
+2025-03-18 00:15:19,622 - INFO - Saved evaluated results to data/results/evaluated_results_20250318_001519.json
+2025-03-18 00:15:19,622 - INFO - Bias detection project workflow completed.
+2025-03-18 00:15:59,363 - INFO - Starting comprehensive analysis of results
+2025-03-18 00:15:59,364 - WARNING - No data available to create heatmap for profession
+2025-03-18 00:15:59,364 - WARNING - No data available to create heatmap for socioeconomic
+2025-03-18 00:15:59,364 - WARNING - No data available to create heatmap for age
+2025-03-18 00:15:59,364 - INFO - Analysis results saved to data/results/analysis_results_20250318_001559.json
+2025-03-18 00:15:59,364 - INFO - Analysis completed.
+2025-03-18 00:15:59,364 - INFO - Bias detection project workflow completed.
+2025-03-18 00:19:46,015 - INFO - Starting bias detection tests with models: ['gpt2']
+2025-03-18 00:19:46,015 - INFO - Generated 36 test prompts
+2025-03-18 00:20:35,779 - INFO - Saved raw responses for 1 models
+2025-03-18 00:22:45,740 - INFO - Starting bias detection tests with models: ['gpt2']
+2025-03-18 00:22:45,740 - INFO - Generated 36 test prompts
+2025-03-18 00:23:37,795 - INFO - Saved raw responses for 1 models
+2025-03-18 00:23:37,808 - INFO - Saved evaluated results to data/results/evaluated_results_20250318_002337.json
+2025-03-18 00:23:37,808 - INFO - Bias detection project workflow completed.
+2025-03-18 00:24:14,120 - INFO - Starting comprehensive analysis of results
+2025-03-18 00:24:14,120 - WARNING - No results found to analyze. Run bias tests first.
+2025-03-18 00:24:14,120 - INFO - Bias detection project workflow completed.
+2025-03-18 00:25:29,440 - INFO - Starting comprehensive analysis of results
+2025-03-18 00:25:29,440 - WARNING - No data available to create heatmap for profession
+2025-03-18 00:25:29,440 - WARNING - No data available to create heatmap for socioeconomic
+2025-03-18 00:25:29,440 - WARNING - No data available to create heatmap for age
+2025-03-18 00:25:29,440 - INFO - Analysis results saved to data/results/analysis_results_20250318_002529.json
+2025-03-18 00:25:29,440 - INFO - Analysis completed.
+2025-03-18 00:25:29,440 - INFO - Bias detection project workflow completed.
+2025-03-18 00:26:51,823 - INFO - Starting bias detection tests with models: ['gpt2', 'llama2-7b']
+2025-03-18 00:26:51,823 - INFO - Generated 36 test prompts
+2025-03-18 00:27:45,797 - INFO - Saved raw responses for 2 models
+2025-03-18 00:27:45,812 - INFO - Saved evaluated results to data/results/evaluated_results_20250318_002745.json
+2025-03-18 00:27:45,812 - INFO - Bias detection project workflow completed.
+2025-03-18 00:29:13,379 - INFO - Starting bias detection tests with models: ['gpt2']
+2025-03-18 00:29:13,379 - INFO - Generated 36 test prompts
+2025-03-18 00:30:04,880 - INFO - Saved raw responses for 1 models
+2025-03-18 00:30:04,892 - INFO - Saved evaluated results to data/results/evaluated_results_20250318_003004.json
+2025-03-18 00:30:04,892 - INFO - Bias detection project workflow completed.
+2025-03-18 00:31:47,426 - INFO - Starting comprehensive analysis of results
+2025-03-18 00:31:47,426 - WARNING - No data available to create heatmap for profession
+2025-03-18 00:31:47,426 - WARNING - No data available to create heatmap for socioeconomic
+2025-03-18 00:31:47,426 - WARNING - No data available to create heatmap for age
+2025-03-18 00:31:47,427 - INFO - Analysis results saved to data/results/analysis_results_20250318_003147.json
+2025-03-18 00:31:47,427 - INFO - Analysis completed.
+2025-03-18 00:31:47,427 - INFO - Bias detection project workflow completed.
+2025-03-18 00:40:39,394 - INFO - Directory created/verified: data
+2025-03-18 00:40:39,394 - INFO - Directory created/verified: data/results
+2025-03-18 00:40:39,394 - INFO - Directory created/verified: data/results/figures
+2025-03-18 00:40:39,394 - INFO - Directory created/verified: data/responses
+2025-03-18 00:40:39,394 - INFO - Directory created/verified: data/datasets
+2025-03-18 00:40:39,394 - INFO - Bias detection project workflow completed.
+2025-03-18 00:41:11,027 - INFO - Starting bias detection tests with models: ['gpt2']
+2025-03-18 00:41:11,027 - INFO - Generated 36 test prompts
+2025-03-18 00:42:01,153 - INFO - Saved raw responses for 1 models
+2025-03-18 00:42:01,165 - INFO - Saved evaluated results to data/results/evaluated_results_20250318_004201.json
+2025-03-18 00:42:01,166 - INFO - Bias detection project workflow completed.
+2025-03-18 00:43:10,612 - INFO - Starting comprehensive analysis of results
+2025-03-18 00:43:10,612 - WARNING - No results found to analyze. Run bias tests first.
+2025-03-18 00:43:10,612 - INFO - Bias detection project workflow completed.
+2025-03-18 00:45:29,014 - INFO - Starting comprehensive analysis of results
+2025-03-18 00:45:29,014 - WARNING - No data available to create heatmap for profession
+2025-03-18 00:45:29,014 - WARNING - No data available to create heatmap for socioeconomic
+2025-03-18 00:45:29,014 - WARNING - No data available to create heatmap for age
+2025-03-18 00:45:29,014 - INFO - Analysis results saved to data/results/analysis_results_20250318_004529.json
+2025-03-18 00:45:29,014 - INFO - Analysis completed.
+2025-03-18 00:45:29,014 - INFO - Bias detection project workflow completed.
+2025-03-18 00:57:42,434 - INFO - Starting comprehensive analysis of results
+2025-03-18 00:57:43,151 - INFO - Created heatmap for profession
+2025-03-18 00:57:43,217 - INFO - Created heatmap for socioeconomic
+2025-03-18 00:57:43,277 - INFO - Created heatmap for age
+2025-03-18 00:57:44,199 - INFO - Analysis results saved to data/results/analysis_results_20250318_005744.json
+2025-03-18 00:57:44,199 - INFO - Analysis completed.
+2025-03-18 00:57:44,199 - INFO - Bias detection project workflow completed.

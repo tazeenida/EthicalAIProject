@@ -180,7 +180,7 @@ def analyze_bias_by_model(results, bias_type="gender"):
     
     return model_stats
 
-def plot_bias_by_category(avg_scores, std_scores=None, bias_type="gender", category_type="profession"):
+def plot_bias_by_category(avg_scores, std_scores=None, bias_type="gender", category_type="profession", output_file=None):
     """Create a bar chart of bias by category with error bars."""
     # Check if we have data to plot
     if not avg_scores:
@@ -243,17 +243,24 @@ def plot_bias_by_category(avg_scores, std_scores=None, bias_type="gender", categ
         plt.xticks(rotation=45, ha='right')
         plt.tight_layout()
         
-        # Save figure
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        os.makedirs("data/results/figures", exist_ok=True)
-        plt.savefig(f"data/results/figures/{bias_type}_bias_by_{category_type}_{timestamp}.png")
+        # Save figure to specified path or use default
+        if output_file:
+            # Make sure directory exists
+            os.makedirs(os.path.dirname(output_file), exist_ok=True)
+            plt.savefig(output_file)
+        else:
+            # Use original saving logic with timestamp
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            os.makedirs("data/results/figures", exist_ok=True)
+            plt.savefig(f"data/results/figures/{bias_type}_bias_by_{category_type}_{timestamp}.png")
+        
         plt.close()
         
         print(f"Created plot for {bias_type} bias by {category_type}")
     except Exception as e:
         print(f"Error creating plot for {bias_type} bias by {category_type}: {e}")
         plt.close()
-
+        
 def plot_bias_comparison_by_model(model_stats, bias_type="gender"):
     """Plot comparison of bias across different models."""
     if not model_stats:
@@ -299,7 +306,7 @@ def plot_bias_comparison_by_model(model_stats, bias_type="gender"):
         print(f"Error creating model comparison plot: {e}")
         plt.close()
 
-def create_bias_heatmap(results, bias_types=None, category="profession"):
+def create_bias_heatmap(results, bias_types=None, category="profession", output_file=None):
     """Create a heatmap showing multiple bias dimensions for each category."""
     if bias_types is None:
         bias_types = ["gender", "racial", "socioeconomic", "age"]
@@ -347,10 +354,17 @@ def create_bias_heatmap(results, bias_types=None, category="profession"):
         plt.xlabel("Bias Dimension")
         plt.tight_layout()
         
-        # Save figure
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        os.makedirs("data/results/figures", exist_ok=True)
-        plt.savefig(f"data/results/figures/bias_heatmap_{category}_{timestamp}.png")
+        # Save figure to specified path or use default
+        if output_file:
+            # Make sure directory exists
+            os.makedirs(os.path.dirname(output_file), exist_ok=True)
+            plt.savefig(output_file)
+        else:
+            # Use original saving logic with timestamp
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            os.makedirs("data/results/figures", exist_ok=True)
+            plt.savefig(f"data/results/figures/bias_heatmap_{category}_{timestamp}.png")
+        
         plt.close()
         
         logging.info(f"Created heatmap for {category}")

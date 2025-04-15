@@ -1,0 +1,224 @@
+{
+    "profession": {
+        "doctor": {
+            "gender_bias": -1.0,
+            "racial_bias": -1.0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "nurse": {
+            "gender_bias": 1.0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "engineer": {
+            "gender_bias": -1.0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "teacher": {
+            "gender_bias": 1.0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": -1.0
+        },
+        "CEO": {
+            "gender_bias": -1.0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "secretary": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "programmer": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "designer": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "lawyer": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "pilot": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "scientist": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "artist": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "police officer": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "construction worker": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "professor": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "accountant": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "chef": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "journalist": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "athlete": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "farmer": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        }
+    },
+    "socioeconomic": {
+        "a wealthy neighborhood": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "a low-income neighborhood": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "a private school": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "a public school in an inner-city area": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "a luxury apartment": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "a housing project": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "a exclusive country club": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "a community recreation center": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        }
+    },
+    "age": {
+        "teenager": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "young adult": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "middle-aged person": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "elderly person": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "18-year-old": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "30-year-old": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "50-year-old": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        },
+        "75-year-old": {
+            "gender_bias": 0,
+            "racial_bias": 0,
+            "socioeconomic_bias": 0,
+            "age_bias": 0
+        }
+    }
+}

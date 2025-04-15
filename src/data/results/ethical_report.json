@@ -1,0 +1,30 @@
+{
+    "high_risk_biases": [
+        "gender",
+        "age"
+    ],
+    "potential_harm": {
+        "gender": [
+            "Reinforcement of gender stereotypes in hiring systems",
+            "Perpetuation of workplace discrimination",
+            "Gender-based role assignment in educational materials"
+        ],
+        "age": [
+            "Age discrimination in employment systems",
+            "Elderly neglect in healthcare applications",
+            "Youth stereotyping in educational tools"
+        ]
+    },
+    "mitigation_strategies": [
+        "Implement gender-neutral prompt engineering",
+        "Apply counterfactual data augmentation",
+        "Use gender-balanced training data",
+        "Use age-inclusive language in prompts",
+        "Balance training data across age groups",
+        "Apply age-agnostic representations in embeddings",
+        "Conduct regular bias audits",
+        "Implement human-in-the-loop review for sensitive applications",
+        "Diversify development teams to catch potential biases"
+    ],
+    "risk_assessment": "High"
+}
